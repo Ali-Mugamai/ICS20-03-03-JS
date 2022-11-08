@@ -3,7 +3,7 @@
   "short_name": "Ali Mugamai's App",
   "description": "Github Page for Ali Mugamai's App",
   "scope": "/ICS20-03-03-PWA/",
-  "start_url": "/ICS20-03-03-PWA",
+  "start_url": "/ICS20-03-03-PWA/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
