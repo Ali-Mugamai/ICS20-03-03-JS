@@ -7,8 +7,8 @@
 "use strict"
 
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS20-03-03-JS/sw.js", {
-    scope: "/ICS20-03-03-JS/",
+  navigator.serviceWorker.register("/ICS20-03-03-PWA/sw.js", {
+    scope: "/ICS20-03-03-PWA/",
   })
 }
 /**
