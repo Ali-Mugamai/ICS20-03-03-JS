@@ -18,7 +18,7 @@ function calculate() {
   // input
   const radius = parseFloat(document.getElementById("radius").value)
   // process
-  const volume = (4 * Math.PI * radius).toFixed(2)
+  const volume = (4 * Math.PI * radius ^ 2).toFixed(2)
   // output
   document.getElementById("volume").innerHTML = "Area is: " + volume + " cm³"
 }
